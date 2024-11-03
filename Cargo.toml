@@ -1,0 +1,8 @@
+[package]
+name = "ferris-break-time"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+native-windows-gui = "1.0.13"
+win32_notif = "0.4.0"
